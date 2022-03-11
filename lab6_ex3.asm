@@ -1,5 +1,5 @@
 ;=================================================
-name: Josue Vargas
+; name: Josue Vargas
 ; Email: jvarg122@ucr.edu
 ; 
 ; Lab: lab 6, ex 3
